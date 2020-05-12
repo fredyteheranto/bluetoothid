@@ -1,5 +1,7 @@
 {
   "name": "bluetoothid",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
